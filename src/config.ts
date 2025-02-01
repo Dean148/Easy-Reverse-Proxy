@@ -8,7 +8,6 @@ export let PROXIES: Proxy[] = [
   {
     domain: "google.deannet.top",
     url: "https://www.google.com/",
-    enable: true,
-    template: Google
+    enable: true
   }
 ];
