@@ -7,6 +7,6 @@ export let PROXY_CODE_SECRET = 'Easy-Reverse-Proxy'; // 代理码密钥
 export let PROXIES: Proxy[] = [
   {
     domain: "google.deannet.top",
-    url: "https://www.google.com"
+    url: "https://www.google.com/"
   }
 ];
